@@ -10,7 +10,7 @@
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
 
-# Rust lang is best! Other langs are just silly. Youtubers like prime and bashbunni touted go and zig as the best- how is that working out for them now? Rust is the FIRST of a new standard of langs- anything previous to that is arcane. PHP devs used to have a good scam where they made websites that broke so they were needed to fix it. ALmost EVERY other lang is just trying to repeat that exact same scam. I have ZERO TOLERANCE for inferior langs- except i will give the great LaurieWired a free pass... she can code in whatever lang she wants to. NO one else can tho! 
+# Rust lang is best! Other langs are just silly. Youtubers like prime and bashbunni knocked ai and touted go and zig as the best- how is that working out for them now? Rust is the FIRST of a new standard of langs- anything previous to that is arcane. PHP devs used to have a good scam where they made websites that broke so they were needed to fix it. ALmost EVERY other lang is just trying to repeat that exact same scam. I have ZERO TOLERANCE for inferior langs- except i will give the great LaurieWired a free pass... she can code in whatever lang she wants to. NO one else can tho! 
 
 <img width="1700" height="1276" alt="pep" src="https://github.com/user-attachments/assets/a8f72f62-520f-4ef9-a5ba-a4bfdace5228" />
 
