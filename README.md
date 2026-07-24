@@ -7,7 +7,10 @@
  # I am an expert coder (when i have ai code lol) 
 
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/38660946-2d28-4926-adef-7c7d33135041" />
+
 # Rust lang is best! Other langs are just silly.
+
+
 <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
 
