@@ -9,7 +9,7 @@
 
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
-
+# Rust lang is best and can do it all. 
  
 
 <img width="1700" height="1276" alt="pep" src="https://github.com/user-attachments/assets/a8f72f62-520f-4ef9-a5ba-a4bfdace5228" />
