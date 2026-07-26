@@ -5,8 +5,8 @@
 <img width="1500" height="500" alt="zz2" src="https://github.com/user-attachments/assets/a54e3e2a-a6a4-47ff-91d2-636c3169c2dc" />
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/38660946-2d28-4926-adef-7c7d33135041" />
 
- # I am an expert world class efficient coder because ai does all the work- i just cut and paste. It is not 1920 any more. 
-
+ # I am an expert world class coder because ai does all the work- i just cut and paste. 
+ 
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
 
