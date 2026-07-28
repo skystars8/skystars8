@@ -5,7 +5,7 @@
 <img width="1500" height="500" alt="zz2" src="https://github.com/user-attachments/assets/a54e3e2a-a6a4-47ff-91d2-636c3169c2dc" />
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/38660946-2d28-4926-adef-7c7d33135041" />
 
- # I am an expert world class Rust coder because ai does all the work- i just cut and paste. How is being on social media all day long trying to convince others that you are good at coding working out for ya? I do not know rust but i can make profoundly awesome rust apps with ai. 
+ # I am an expert world class Rust coder because ai does all the work- i just cut and paste. How is being on social media all day long trying to convince others that you are good at coding working out for ya? (bashbinni and a long list of others). That same type of person knocks ai and touts inferior langs. I do not know rust but i can make profoundly awesome rust apps with ai. 
  
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
