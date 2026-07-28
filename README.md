@@ -5,7 +5,9 @@
 <img width="1500" height="500" alt="zz2" src="https://github.com/user-attachments/assets/a54e3e2a-a6a4-47ff-91d2-636c3169c2dc" />
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/38660946-2d28-4926-adef-7c7d33135041" />
 
- # I am an expert world class Rust coder because ai does all the work- i just cut and paste. How is being on social media all day long trying to convince others that you are good at coding working out for ya? (there is a long list of them... youtubers who make people stupider with each misleading video). That same type of person knocks ai and touts inferior langs. I do not know Rust but ai can make me profoundly awesome apps with Rust. 
+ # I am an expert world class Rust coder because ai does all the work- i just cut and paste.
+ 
+How is being on social media all day long trying to convince others that you are good at coding working out for ya? (there is a long list of them... youtubers who make people stupider with each misleading video). That same type of person knocks ai and touts inferior langs. I do not know Rust but ai can make me profoundly awesome apps with Rust. Take Bashbunni as an example. A very nice person, but obviously spending time trying to convince others she is a good coder. She said on stream once that she does not care what ai can make and is not interested in ai code. That is literally like the year 1709 trying to knock the year 2026. Ai is profoundly superior to human coders, especially newer coders who are learning. 
  
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
