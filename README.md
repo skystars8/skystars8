@@ -5,7 +5,7 @@
 <img width="1500" height="500" alt="zz2" src="https://github.com/user-attachments/assets/a54e3e2a-a6a4-47ff-91d2-636c3169c2dc" />
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/38660946-2d28-4926-adef-7c7d33135041" />
 
- # I am an expert world class Rust coder because ai does all the work- i just cut and paste.
+ # I am an expert world class Rust coder because ai does all the work- i just cut and paste. While Ai is doing historical things i only dreamed about for years, i am playing chess, watching a little tv, maybe grabbing a snack. Weeeeeeee :) 
  
 
  
