@@ -12,7 +12,9 @@
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
 
-# Rust lang is god. Ai is god. Put the 2 together and YOU are god.  
+# Rust lang is god. Ai is god. Put the 2 together and YOU are god.  .....
+
+update! wtf? the ai cli agent can totally make apps and run docker too, even tho i do not know nothing about docker. So i will dev docker apps that work on any os from any desktop. I AM the 1 percent of elite coders... but i do not know or want to know the first darn thing about how it all works. Put that in ur pipe and smoke it, youtubers and streamers who spend all day trying to convince others that you are a tech expert. I do not know ANYTHING yet i can outpace your manual coding any day of the week. So good luck spending the next 20 years of your life learning tech, just to end up way behind what i can do today. Weeeeeeeeeeeeeeeeeeeeeeeeee :) 
  
 
 <img width="1700" height="1276" alt="pep" src="https://github.com/user-attachments/assets/a8f72f62-520f-4ef9-a5ba-a4bfdace5228" />
