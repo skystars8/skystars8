@@ -6,10 +6,7 @@
 <img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/38660946-2d28-4926-adef-7c7d33135041" />
 
  # I am an expert world class Rust coder because ai does all the work- i just compile the finished code.  THAT is how to code. Weeeeeeee :) 
- 
-I, like so many others, used to spend countless days and nights tinkering with code. Ai is here now, and it can make entire full featured apps in about 2 minutes, which is mind blowing in comparison to the old way. For the people like me- the ones who spent countless hours with tech stuff... it was not all in vain. That experience gives a strong advantage, because you know how to best interact with ai in order to make the best apps. Truly tho, with ai, anyone can make any type of app. BAM ! 
 
-NOW is where it gets weird tho. Ai is SO GOOD that people look stupid running old, dangerous and arcane apps. Literally. Github hosts so many old apps that have crazy security holes. Chan sites run absurdly outdated apps that are an absolute security risk to users and the site owner. No app is immune from hacking, but for f- sake , if one can make a modern ai app and then have ai audit it often, why the f are people running inferior apps in production? That is not even trying to do it right. 
  
  <img width="220" height="168" alt="b" src="https://github.com/user-attachments/assets/0b2cdbc0-de5e-4fcd-8491-2addcddaf46a" />
 <img width="220" height="220" alt="d" src="https://github.com/user-attachments/assets/fa4318ad-7fd4-4a92-b486-24925bd8b8fd" />
