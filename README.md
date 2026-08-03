@@ -7,6 +7,9 @@
 
 
 
+
+
+
 Note: Ai gets better in huge leaps so i start fresh often. Archiving my repos is for organizational purposes-, not because the code is bad. The exciting truth is ai is so good that one can take the very best things from any app and have ai run with it, making a new version from scratch and adding to it. So on THIS git account, archiving is not a sign that somethig is old and outdated, it is more of a sign that there are really good concepts or code ideas worth saving for future reference. 
 
 
